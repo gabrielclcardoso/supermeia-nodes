@@ -1,1 +1,7 @@
 ![image](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/671c575b-0dd8-4807-b8bf-24abba4db373)
+![image](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/59d3a9b3-d93d-405d-8c47-4f0b685843ae)
+![image](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/30879dee-50bb-44a2-88d2-ae2c780fc0ea)
+![image](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/4668940b-2c85-4ef3-9c00-7225a7ec5af7)
+![image](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/49614a27-2baf-4c9a-a7d7-b16b1befc114)
+![image](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/78e989b0-5a5b-48f5-a2cf-d7d7490848d2)
+![image](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/2d3eec20-2ed7-4326-8fc9-4fdf65a9162e)
