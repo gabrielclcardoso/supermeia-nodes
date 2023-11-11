@@ -28,22 +28,22 @@ This page is a hub for info on the mixnode ran by me. I'm a software engineer fr
 #
 **Some of my Ambassador related work:**
 
-<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/671c575b-0dd8-4807-b8bf-24abba4db373" alt="drawing" width="200"/>
+<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/095d8b7f-72d8-4f12-8b68-ab4a3f7e7b75" width="200"/>
 
 Privacy talk at the social project [Futuro On](https://www.linkedin.com/company/futuroon-tecnologia)
 
-<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/59d3a9b3-d93d-405d-8c47-4f0b685843ae" alt="drawing" width="200"/>
+<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/986bd1ce-5cdc-4afa-9b25-0499653993bb" alt="drawing" width="200"/>
 
 Workshop at the social project [Educar+](https://www.educarmais.net/)
 
-<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/30879dee-50bb-44a2-88d2-ae2c780fc0ea" alt="drawing" width="200"/>
+<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/bf8b57bb-e505-4bfb-b87a-ca942123154b" alt="drawing" width="200"/>
 
 Privacy talk with the social project [Plataforma Impact](https://plataformaimpact.org/pt/plataforma-impact-pt/)
 
-<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/49614a27-2baf-4c9a-a7d7-b16b1befc114" alt="drawing" width="200"/>
+<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/bedb8cab-413f-4230-924f-647ef7cba4de" alt="drawing" width="200"/>
 
 Privacy talk at the software engineering school [42Rio](https://42.rio/)
 
-<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/2d3eec20-2ed7-4326-8fc9-4fdf65a9162e" alt="drawing" width="200"/>
+<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/79b90790-75b6-494b-8fd0-1bdda5998e0c" alt="drawing" width="200"/>
 
 Privacy pannel at [BlockchainRio](https://blockchainfestival.io/)
