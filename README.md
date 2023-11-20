@@ -23,7 +23,8 @@ This page is a hub for info on the mixnode ran by me. I'm a software engineer fr
 ## My Nym related work
 **Dev related work:**
 
-[![Bash tool card](https://github-readme-stats.vercel.app/api/pin/?username=P-R-I-S-M-Brasil&theme=dark&repo=mixFetchDemo)](https://github.com/P-R-I-S-M-Brasil/mixFetchDemo)
+[![MixFetch card](https://github-readme-stats.vercel.app/api/pin/?username=P-R-I-S-M-Brasil&theme=dark&repo=mixFetchDemo)](https://github.com/P-R-I-S-M-Brasil/mixFetchDemo)
+[![Incognito card](https://github-readme-stats.vercel.app/api/pin/?username=TupiNymQuim&theme=dark&repo=search)](https://github.com/TupiNymQuim/search)
 [![ExploreNYm_card](https://github-readme-stats.vercel.app/api/pin/?username=explorenym&theme=dark&repo=bash-tool)](https://github.com/ExploreNYM/bash-tool)
 #
 **Some of my Ambassador related work:**
