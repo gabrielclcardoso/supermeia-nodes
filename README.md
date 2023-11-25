@@ -15,7 +15,7 @@ This page is a hub for info on the mixnode ran by me. I'm a software engineer fr
 *  2KuFi7CjKVh1mQrNKhdwLjhXBhVLRktvWMg5k4WXKdrX
 
 **Telegram Channel:**
-* [here](https://t.me/+Mr2-01bJqJQ3Njkx) you will have a direct channel through which I will share relevant information about the mixnode operation with you and where you can contact me if you have any questions regarding the node.
+* Here: https://t.me/supermeia_node you will have a direct channel through which I will share relevant information about the mixnode operation with you and where you can contact me if you have any questions regarding the node.
 
 **Explorer-links:**
 * [nym](https://explorer.nymtech.net/network-components/mixnode/927) - [nodes-guru](https://mixnet.explorers.guru/mixnode/2KuFi7CjKVh1mQrNKhdwLjhXBhVLRktvWMg5k4WXKdrX) - [expolre-nym](https://explorenym.net/mixnode/2kufi7cjkvh1mqrnkhdwljhxbhvlrktvwmg5k4wxkdrx/)
