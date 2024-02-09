@@ -3,3 +3,5 @@
 ![blockchainRio](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/79b90790-75b6-494b-8fd0-1bdda5998e0c)
 ![FuturoOn](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/095d8b7f-72d8-4f12-8b68-ab4a3f7e7b75)
 ![educar+](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/986bd1ce-5cdc-4afa-9b25-0499653993bb)
+![h2hc](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/0ce73d37-d5a4-446a-bc4b-3c20dd8a99d1)
+![TupiNymQuim](https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/885b50a2-e404-4695-b84b-cf489af55a60)
