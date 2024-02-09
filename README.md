@@ -48,3 +48,11 @@ Privacy talk at the software engineering school [42Rio](https://42.rio/)
 <img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/79b90790-75b6-494b-8fd0-1bdda5998e0c" alt="drawing" width="200"/>
 
 Privacy pannel at [BlockchainRio](https://blockchainfestival.io/)
+
+<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/0ce73d37-d5a4-446a-bc4b-3c20dd8a99d1" alt="drawing" width="200"/>
+
+Mixnet and anonymous credentials pannel at [H2HC](https://www.h2hc.com.br/)
+
+<img src="https://github.com/gabrielclcardoso/supermeia-nodes/assets/69059969/885b50a2-e404-4695-b84b-cf489af55a60" alt="drawing" width="200"/>
+
+Nym presentation and workshop with the [TupiNymQuim](https://tupinymquim.github.io/) squad at [42Rio](https://42.rio/)
